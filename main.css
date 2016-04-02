@@ -1,0 +1,12 @@
+
+.hide {
+	display: none;
+}
+
+.show { 
+	display: inline;
+}
+
+textarea {
+	width: 100%;
+}
