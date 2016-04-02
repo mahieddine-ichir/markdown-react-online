@@ -3,7 +3,7 @@ A Simple Markdown online editor to highlight Reactjs.
 
 ## Libraries
 * The project uses the following [markdown](https://github.com/evilstreak/markdown-js) library for markdown syntax parsing and 2html transformation.
-* The project uses the Babel library for JSX syntax browsers support
+* The project uses the (Babel library)[https://babeljs.io/] for JSX syntax browsers support
 
 _Please refer to the official [Reactjs](https://facebook.github.io/react/) documentation for more information._
 
