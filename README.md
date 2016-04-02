@@ -12,6 +12,7 @@ The project is testable and runnable on my following jsfiddle public repository 
 
 [React Markdown Online Editor on JsFiddle](https://jsfiddle.net/mahieddine_ichir/yapqf9Lb/)
 
+__Notes__
 * _The js resources on jsfiddle where modified accordingly to fit jsfiddle_.
 * _I advice forking the following [jsfiddle reactjs jsx repository](https://jsfiddle.net/reactjs/69z2wepo/) to rapidly start a runnable Reactjs JSX based project_
 
